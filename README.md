@@ -1,3 +1,24 @@
-## DevOps Project for Beginners   
+public class HelloWorld {
+    
+    // 
+    public static void main(String[] args) {
+        
+        //
+        System.out.println("Hello, World!");
+        
+        // 
+        System.out.println("Name: Emelyn Moran");
+        
+        // 
+        System.out.println("Favorite food: Pizza");
+        
+        //
+       System.out.println("I'd like to meet: The Weeknd")
+       //
+       System.out.println("Least favorite chore: Washing dishes");
+        
+        // 
+        System.out.println("I'd rather be: Traveling the world");
+    }
+}
 
-[![Image](https://github.com/yankils/Simple-DevOps-Project/blob/master/Devops_course.PNG "DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes ")](https://www.udemy.com/course/valaxy-devops/?referralCode=8147A5CF4C8C7D9E253F)
